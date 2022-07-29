@@ -1,21 +1,22 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gwgofficial07&label=Profile%20views&color=0e75b6&style=flat" alt="gwgofficial07" /> </p>
 
-## ðŸš€ Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gwgofficial07" alt="gwgofficial07" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/@gwg_official_7" target="blank"><img src="https://img.shields.io/twitter/follow/@gwg_official_7?logo=twitter&style=for-the-badge" alt="@gwg_official_7" /></a> </p>
 
-# OlÃ¡, eu sou a Katherine! ðŸ‘‹
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@gwg_official_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gwg_official_7" height="30" width="40" /></a>
+<a href="https://instagram.com/@gwg_official_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gwg_official_07" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/gaming with game yt official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gaming with game yt official" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/RPnRhKgkjk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RPnRhKgkjk" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-## ðŸ”— Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gwgofficial07&show_icons=true&locale=en&layout=compact" alt="gwgofficial07" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gwgofficial07&show_icons=true&locale=en" alt="gwgofficial07" /></p>
 
-## ðŸ›  Habilidades
-Javascript, HTML, CSS...
-
-
-## LicenÃ§a
-
-[MIT](https://choosealicense.com/licenses/mit/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gwgofficial07&" alt="gwgofficial07" /></p>
