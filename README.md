@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I AM LEARNING HOW TO MAKE WEBSITE<br>💬 MY BIO [TAP](http://telegra.ph/BIO-OF-GWG-07-08)<br>⚡️FUN FACT : I AM DANGER☠️
-
+[![VIEWS](https://visitcount.itsvg.in/api?id=GwGYT&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/RPnRhKgkjk)
@@ -27,5 +27,3 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=GwGYT&icon=0&color=0)](https://visitcount.itsvg.in)
