@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I AM LEARNING HOW TO MAKE WEBSITE<br>💬 MY BIO http://telegra.ph/BIO-OF-GWG-07-08<br>⚡️FUN FACT : I AM DANGER☠️
+🔭 I AM LEARNING HOW TO MAKE WEBSITE<br>💬 MY BIO [TAP](http://telegra.ph/BIO-OF-GWG-07-08)<br>⚡️FUN FACT : I AM DANGER☠️
 
 
 ## 🌐 Socials:
