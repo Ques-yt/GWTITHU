@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gwtithu" alt="gwtithu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gwtithu" target="blank"><img src="https://img.shields.io/twitter/follow/gwtithu?logo=twitter&style=for-the-badge" alt="gwtithu" /></a> </p>
-
 - 🔭 I’m currently working on [MAKING TELEGRAM NETWORK POPULAR.](https://t.me/Python_Network_IN)
 
 - 🌱 I’m currently learning **CODING ( PYTHON ) & ( HTML )**
