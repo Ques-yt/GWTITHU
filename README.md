@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gwtithu" alt="gwtithu" /></a> </p>
 
-- 🔭 I’m currently working on [MAKING TELEGRAM NETWORK POPULAR.](https://t.me/Python_Network_IN)
-
-- 🌱 I’m currently learning **CODING ( PYTHON ) & ( HTML )**
+- 🌱 I’m currently learning **CODING ( PYTHON )**
 
 - 👨‍💻 All of my social media links are available at [https://linktr.ee/GW_TITHU](https://linktr.ee/GW_TITHU)
-
-- 📝 I regularly sending free fire updates at [https://t.me/gw_tithu_updates](https://t.me/gw_tithu_updates)
 
 - 📫 How to reach me **tithijaryanofficial@gmail.com**
 
