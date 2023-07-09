@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gw_tithu" target="blank"><img src="https://img.shields.io/twitter/follow/gw_tithu?logo=twitter&style=for-the-badge" alt="gw_tithu" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **HTML+CSS+JAVA SCRIPT**
 
 - 📫 How to reach me **tithijaryanofficial@gmail.com**
 
